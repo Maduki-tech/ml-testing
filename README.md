@@ -27,5 +27,5 @@
 
 #### model.py
 
-Ensure the `train_and_predict` function returns predictions.
-You might also want to check that the predictions are of the correct length (matching the test set size) and possibly that the predictions are within the expected range of values (for the Iris dataset, this would be 0, 1, or 2, corresponding to the three species of Iris).
+- Ensure the `train_and_predict` function returns predictions.
+- You might also want to check that the predictions are of the correct length (matching the test set size) and possibly that the predictions are within the expected range of values (for the Iris dataset, this would be 0, 1, or 2, corresponding to the three species of Iris).
