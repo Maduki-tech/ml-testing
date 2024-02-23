@@ -1,5 +1,17 @@
 # ml-testing
 
+## Installation
+
+- Create a virtual **env**
+```bash
+python3 -m venv env
+```
+
+- Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
 ## Code explained
 
 ### Functions
